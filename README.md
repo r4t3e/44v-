@@ -1,1 +1,1 @@
-Clash GUI based on tauri
+A lightweight private proxy registry
